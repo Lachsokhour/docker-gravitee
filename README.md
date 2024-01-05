@@ -1,1 +1,1 @@
-https://docs.gravitee.io/apim/1.x/apim_installguide_docker_compose.html
+[https://docs.gravitee.io/apim/1.x/apim_installguide_docker_compose.html](https://documentation.gravitee.io/apim/getting-started/install-guides/install-on-docker/quick-install-with-docker-compose)https://documentation.gravitee.io/apim/getting-started/install-guides/install-on-docker/quick-install-with-docker-compose
